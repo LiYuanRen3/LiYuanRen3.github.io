@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://s1.ax1x.com/2020/05/17/YR20js.jpg",
+                "content": "http://q.qlogo.cn/headimg_dl?dst_uin=2196592083&spec=640&img_type=jpg",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -233,7 +233,7 @@
                 "y": "y*0.1"
             },
             "version": "1.0.0",
-            "poweredBy": "Luckey",
+            "poweredBy": "LiYuanRen",
             "resizable": true,
             "single": true,
             "size": {
@@ -241,7 +241,7 @@
                 "width": "x*0.8"
             },
             "title": "个人博客",
-            "url": "http://www.luckyzmj.cn",
+            "url": "http://www.lyr3.cn",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -438,8 +438,8 @@
                 "height": "y*0.8-80",
                 "width": "x*0.8"
             },
-            "title": "路过图床",
-            "url": "https://imgchr.com/",
+            "title": "SM.MS 图床",
+            "url": "https://sm.ms/",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -662,7 +662,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "LiYuanRen",
             "resizable": true,
             "single": false,
             "size": {
@@ -761,7 +761,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "LiYuanRen",
             "resizable": true,
             "single": false,
             "size": {
@@ -794,7 +794,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "LiYuanRen",
             "resizable": true,
             "single": false,
             "size": {
@@ -827,7 +827,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "LiYuanRen",
             "resizable": true,
             "single": false,
             "size": {
@@ -860,7 +860,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "LiYuanRen",
             "resizable": true,
             "single": false,
             "size": {
