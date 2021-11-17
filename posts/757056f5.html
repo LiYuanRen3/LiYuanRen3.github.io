@@ -912,9 +912,8 @@ a<span class="token operator">:</span><span class="token number">3</span>
 <span class="token keyword">default</span><span class="token operator">:</span><span class="token number">1</span>
 a<span class="token operator">:</span><span class="token number">1</span>
 b<span class="token operator">:</span><span class="token number">1</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-### 五、其他打印
-### 1. console.table()
-我们平时使用`console.log`较多，其实`console`对象还有很多属性可以使用，比如`console.table()`，使用它可以方便的打印数组对象的属性，打印结果是一个表格。`console.table()`方法有两个参数，第一个参数是需要打印的对象，第二个参数是需要打印的表格的标题，这里就是数组对象的属性值。来看下面的例子：
+
+<h3 id="五、其他打印"><a href="#五、其他打印" class="headerlink" title="五、其他打印"></a>五、其他打印</h3><h3 id="1-console-table"><a href="#1-console-table" class="headerlink" title="1. console.table()"></a>1. console.table()</h3><p>我们平时使用<code>console.log</code>较多，其实<code>console</code>对象还有很多属性可以使用，比如<code>console.table()</code>，使用它可以方便的打印数组对象的属性，打印结果是一个表格。<code>console.table()</code>方法有两个参数，第一个参数是需要打印的对象，第二个参数是需要打印的表格的标题，这里就是数组对象的属性值。来看下面的例子：</p>
 <pre class="line-numbers language-javascript" data-language="javascript"><code class="language-javascript"><span class="token keyword">const</span> users <span class="token operator">=</span> <span class="token punctuation">[</span> 
    <span class="token punctuation">{</span> 
       <span class="token string">"first_name"</span><span class="token operator">:</span><span class="token string">"Harcourt"</span><span class="token punctuation">,</span>
@@ -940,8 +939,7 @@ b<span class="token operator">:</span><span class="token number">1</span><span a
 <span class="token punctuation">]</span>
 
 console<span class="token punctuation">.</span><span class="token function">table</span><span class="token punctuation">(</span>users<span class="token punctuation">,</span> <span class="token punctuation">[</span><span class="token string">'first_name'</span><span class="token punctuation">,</span> <span class="token string">'last_name'</span><span class="token punctuation">,</span> <span class="token string">'city'</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-打印结果如下：
-
+<p>打印结果如下：</p>
 <p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ade3872dd5944ffc9ae3bce97c3e1cb5~tplv-k3u1fbpfcp-watermark.awebp" alt="img"></p>
 <p>通过这种方式，可以更加清晰的看到数组对象中的指定属性。</p>
 <p>除此之外，还可以使用console.table()来打印数组元素：</p>
