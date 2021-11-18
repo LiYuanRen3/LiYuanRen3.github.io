@@ -51,6 +51,13 @@
   </url>
   
   <url>
+    <loc>http://web.lyr3.cn/404.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://web.lyr3.cn/google1xxxxxxx0.html</loc>
     
     <lastmod>2021-06-12</lastmod>
@@ -58,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/about/index.html</loc>
+    <loc>http://web.lyr3.cn/baidu_verify_xxxxxxx.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/categories/index.html</loc>
+    <loc>http://web.lyr3.cn/List/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -79,14 +86,14 @@
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/census/index.html</loc>
+    <loc>http://web.lyr3.cn/about/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/resource/index.html</loc>
+    <loc>http://web.lyr3.cn/census/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -107,35 +114,7 @@
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/List/movies/index.html</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://web.lyr3.cn/List/index.html</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://web.lyr3.cn/baidu_verify_xxxxxxx.html</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://web.lyr3.cn/404.html</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://web.lyr3.cn/List/music/index.html</loc>
+    <loc>http://web.lyr3.cn/resource/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -143,6 +122,20 @@
   
   <url>
     <loc>http://web.lyr3.cn/List/galleries/index.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://web.lyr3.cn/List/movies/index.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://web.lyr3.cn/List/music/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -163,13 +156,6 @@
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://web.lyr3.cn/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
@@ -177,7 +163,7 @@
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    <loc>http://web.lyr3.cn/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -191,7 +177,7 @@
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
+    <loc>http://web.lyr3.cn/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -206,6 +192,20 @@
   
   <url>
     <loc>http://web.lyr3.cn/List/galleries/%E6%B8%85%E6%96%B0%E8%8A%B1%E5%8D%89/index.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://web.lyr3.cn/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://web.lyr3.cn/categories/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
     
@@ -263,13 +263,6 @@
   </url>
   
   <url>
-    <loc>http://web.lyr3.cn/tags/HelloWord/</loc>
-    <lastmod>2021-11-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://web.lyr3.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc>
     <lastmod>2021-11-18</lastmod>
     <changefreq>daily</changefreq>
@@ -284,6 +277,20 @@
   </url>
   
   <url>
+    <loc>http://web.lyr3.cn/tags/HelloWord/</loc>
+    <lastmod>2021-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://web.lyr3.cn/tags/Github/</loc>
+    <lastmod>2021-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://web.lyr3.cn/tags/javascript/</loc>
     <lastmod>2021-11-18</lastmod>
     <changefreq>daily</changefreq>
@@ -292,13 +299,6 @@
   
   <url>
     <loc>http://web.lyr3.cn/tags/%E8%BD%AC%E8%BD%BD/</loc>
-    <lastmod>2021-11-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://web.lyr3.cn/tags/Github/</loc>
     <lastmod>2021-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
